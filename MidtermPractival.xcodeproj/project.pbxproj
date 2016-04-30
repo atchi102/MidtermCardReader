@@ -12,6 +12,11 @@
 		E488AFB81CACC2F800E9B4DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E488AFB61CACC2F800E9B4DD /* Main.storyboard */; };
 		E488AFBA1CACC2F800E9B4DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E488AFB91CACC2F800E9B4DD /* Assets.xcassets */; };
 		E488AFBD1CACC2F800E9B4DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E488AFBB1CACC2F800E9B4DD /* LaunchScreen.storyboard */; };
+		E488AFC51CACC43C00E9B4DD /* AmericanExpress.png in Resources */ = {isa = PBXBuildFile; fileRef = E488AFC41CACC43C00E9B4DD /* AmericanExpress.png */; };
+		E488AFC71CACC58E00E9B4DD /* DiscoverCard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E488AFC61CACC58E00E9B4DD /* DiscoverCard.jpg */; };
+		E488AFCA1CACC7CE00E9B4DD /* MasterCard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E488AFC81CACC7CE00E9B4DD /* MasterCard.jpg */; };
+		E488AFCB1CACC7CE00E9B4DD /* VisaCard.png in Resources */ = {isa = PBXBuildFile; fileRef = E488AFC91CACC7CE00E9B4DD /* VisaCard.png */; };
+		E488AFCD1CACC8D300E9B4DD /* default.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E488AFCC1CACC8D300E9B4DD /* default.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		E488AFB91CACC2F800E9B4DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E488AFBC1CACC2F800E9B4DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E488AFBE1CACC2F800E9B4DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E488AFC41CACC43C00E9B4DD /* AmericanExpress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AmericanExpress.png; path = ../../../Documents/AmericanExpress.png; sourceTree = "<group>"; };
+		E488AFC61CACC58E00E9B4DD /* DiscoverCard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DiscoverCard.jpg; path = ../../../Documents/DiscoverCard.jpg; sourceTree = "<group>"; };
+		E488AFC81CACC7CE00E9B4DD /* MasterCard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MasterCard.jpg; path = ../../../Documents/MasterCard.jpg; sourceTree = "<group>"; };
+		E488AFC91CACC7CE00E9B4DD /* VisaCard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = VisaCard.png; path = ../../../Documents/VisaCard.png; sourceTree = "<group>"; };
+		E488AFCC1CACC8D300E9B4DD /* default.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = default.jpg; path = ../../../Documents/default.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +67,14 @@
 				E488AFB21CACC2F800E9B4DD /* AppDelegate.swift */,
 				E488AFB41CACC2F800E9B4DD /* ViewController.swift */,
 				E488AFB61CACC2F800E9B4DD /* Main.storyboard */,
+				E488AFCC1CACC8D300E9B4DD /* default.jpg */,
+				E488AFC81CACC7CE00E9B4DD /* MasterCard.jpg */,
+				E488AFC91CACC7CE00E9B4DD /* VisaCard.png */,
 				E488AFB91CACC2F800E9B4DD /* Assets.xcassets */,
+				E488AFC41CACC43C00E9B4DD /* AmericanExpress.png */,
 				E488AFBB1CACC2F800E9B4DD /* LaunchScreen.storyboard */,
 				E488AFBE1CACC2F800E9B4DD /* Info.plist */,
+				E488AFC61CACC58E00E9B4DD /* DiscoverCard.jpg */,
 			);
 			path = MidtermPractival;
 			sourceTree = "<group>";
@@ -122,9 +137,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E488AFC51CACC43C00E9B4DD /* AmericanExpress.png in Resources */,
+				E488AFCB1CACC7CE00E9B4DD /* VisaCard.png in Resources */,
 				E488AFBD1CACC2F800E9B4DD /* LaunchScreen.storyboard in Resources */,
+				E488AFC71CACC58E00E9B4DD /* DiscoverCard.jpg in Resources */,
+				E488AFCA1CACC7CE00E9B4DD /* MasterCard.jpg in Resources */,
 				E488AFBA1CACC2F800E9B4DD /* Assets.xcassets in Resources */,
 				E488AFB81CACC2F800E9B4DD /* Main.storyboard in Resources */,
+				E488AFCD1CACC8D300E9B4DD /* default.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
